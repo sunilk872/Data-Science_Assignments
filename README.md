@@ -1,5 +1,5 @@
 # Data-Science_Assignments
 
-## content
- - [Basic stats - 1](#Basic stats - 1)
+## Content
 
+- [Basic stats - 1](./Basic%20stats%20-%201/)
